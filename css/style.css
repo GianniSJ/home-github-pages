@@ -17,15 +17,16 @@ body{
 
 #wrapper h1{
 	font-size: 65px;
-	margin-bottom: 1em;
+	margin-bottom: 50px;
 	letter-spacing: 3px;
 	font-weight: 400;
 }
 
 #wrapper h2 {
 	font-size: 25px;
-	margin-bottom: 2em;
+	margin-bottom: 3em;
 	letter-spacing: 3px;
+	font-weight: 300;
 
 }
 
