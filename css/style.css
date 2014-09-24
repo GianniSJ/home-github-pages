@@ -108,6 +108,9 @@ letter-spacing: 1px;
 
 }
 
+hr.small {
+    max-width: 100px;
+}
 
 
 <style>
@@ -120,5 +123,32 @@ color:white;
 }
 </style>
 
+/* Portfolio */
+
+.portfolio {
+    padding: 50px 0;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.img-portfolio {
+    margin: 0 auto;
+}
+
+.img-portfolio:hover {
+    opacity: 0.8;
+}
+
+/* Call to Action */
+
+.call-to-action {
+    padding: 50px 0;
+}
+
+.call-to-action .btn {
+    margin: 10px;
+}
 
 
