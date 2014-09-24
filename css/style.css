@@ -174,7 +174,17 @@ color:white;
 #strap p {
 	font-size: 17px;
 	font-weight: 400;
-	
+
+}
+
+
+
+#bio
+{
+	background-image: url(../image/background/bio.jpg);
+	height: 550px;
+	background-size: cover;
+	background-attachment:fixed;
 }
 
 
